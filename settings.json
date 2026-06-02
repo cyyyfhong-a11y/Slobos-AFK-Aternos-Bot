@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "dog thavarat",
   "bot-account": {
     "username": "sak dog thavara dog",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "hengsakthavara.aternos.me",
+    "ip": "chilchil_khmer.aternos.me",
     "port": 48594,
     "version": "",
     "try-creative": true
